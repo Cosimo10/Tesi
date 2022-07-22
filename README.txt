@@ -1,4 +1,4 @@
-Creare il db su mysql workbench eseguendo i file nella cartella dumps (leggere il readme)
+#Creare il db su mysql workbench eseguendo i file nella cartella dumps (leggere il readme)
 
 
 
