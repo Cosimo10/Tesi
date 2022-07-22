@@ -1,3 +1,21 @@
+# NomeApp
+DESCRIZIONE
+
+#TECNOLOGIE USATE
+
+##SERVER-SIDE
+* Java
+* Spring
+* Hibernate
+* lombok
+
+DATABASE
+
+BOOTSTRAP
+
+
+#ISTRUZIONI
+
 #Creare il db su mysql workbench eseguendo i file nella cartella dumps (leggere il readme)
 
 
