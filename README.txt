@@ -1,8 +1,9 @@
-# NomeApp
+# AssessmentPlanApp
 DESCRIZIONE
+L'applicazione fornisce un modo  intuitivo per creare un assessment plan inserendo il framework utilizzato ed i vari controlli implementati o pianificati.
+
 
 #TECNOLOGIE USATE
-
 ##SERVER-SIDE
 * Java
 * Spring
@@ -10,8 +11,11 @@ DESCRIZIONE
 * lombok
 
 DATABASE
+*MySql
 
-BOOTSTRAP
+##CLIENT SIDE
+*BOOTSTRAP
+*THYMELEAF
 
 
 #ISTRUZIONI
