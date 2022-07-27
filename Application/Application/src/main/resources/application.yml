@@ -1,0 +1,13 @@
+server : 
+  port : ${SERVER_PORT}
+  
+spring:
+  datasource:
+      url : ${DATA_BASE_URL}
+      username : ${DATA_BASE_USER_NAME}
+      password : ${DATA_BASE_USER_PASSWORD}
+      driver-class-name: ${DATA_BASE_DRIVER}
+      
+      
+persistence:
+  scanpackage : Tesis.entity
